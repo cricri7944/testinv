@@ -1,0 +1,7 @@
+# main.yml
+
+  - shell: uptime  | awk '{print $3 $4}'
+    register: result
+
+  - debug: var=result.stdout_lines
+
