@@ -4,6 +4,10 @@ VM
 RASPN
 RASPB
 
+[RASPALL:children]
+RASPN
+RASPB
+
 [LOCAL]
 icare799 ansible_host=192.168.1.16
 
