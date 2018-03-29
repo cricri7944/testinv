@@ -4,8 +4,8 @@ RASPN
 RASPB
 
 [VM]
-icare7991 
-icare7992
+icare7991  ansible_host=192.168.1.18
+icare7992  ansible_host=192.168.1.16
 
 [RASPN]
 icare791 ansible_port=2271 ansible_host=82.244.143.9
