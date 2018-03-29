@@ -11,6 +11,6 @@ icare7992
 icare791 ansible_port=2271 ansible_host=82.244.143.9
 icare792 ansible_port=2261 ansible_host=82.244.143.9
 
-[RAPSB]
+[RASPB]
 icare441 ansible_port=2261 ansible_host=109.27.8.28
 test
